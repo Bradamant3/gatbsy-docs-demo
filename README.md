@@ -7,6 +7,8 @@
 The readme content below is all from the original Gatsby Docs Starter project. 
 This paragraph only explains that the current repo provides a POC for developing and deploying documentation with Gatsby and Netlify.
 
+The original repo (since this one isn't properly a fork because I started locally): https://github.com/ericwindmill/gatsby-starter-docs
+
 #### This Project was forked from [Gatsby Advanced Starter](https://github.com/Vagr9K/gatsby-advanced-starter)
 
 A starter skeleton with advanced features for [Gatsby](https://github.com/gatsbyjs/gatsby/).
